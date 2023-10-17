@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "production": "movies-app-a67a7",
+    "default": "movies-app-a67a7"
+  },
+  "targets": {},
+  "etags": {}
+}

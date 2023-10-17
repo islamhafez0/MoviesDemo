@@ -43,7 +43,7 @@ const HomeBanner = () => {
           <div className="search_bar">
             <input
               type="text"
-              placeholder="serach for a movie or tv show"
+              placeholder="Search for a movie, tv show, person......"
               onChange={(e) => setQuery(e.target.value)}
               onKeyUp={handleSearchQuery}
             />
